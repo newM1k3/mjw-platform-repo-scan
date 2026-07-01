@@ -1,0 +1,3 @@
+.netlify/functions/
+.netlify/state.json
+node_modules/
